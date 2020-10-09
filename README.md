@@ -1,0 +1,2 @@
+# simulacion
+practicas simulacion discreta
